@@ -82,3 +82,6 @@ The result:
   
   Developers:
     
+     - Malak Hulimi @MalakHulimi
+     - Alanoud Almansour @AlanoudAM9
+     - Fatimah Dagriri @FatimaKD
