@@ -1,7 +1,7 @@
 # Shortcuts
 
 This is an API that shows the user meanings of the shortcuts.
-We used vapor, and PSQL. 
+We used vapor, and PSQL to develop it. 
 
 The required data to add a shortcut:
 
