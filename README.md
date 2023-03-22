@@ -76,8 +76,9 @@ The result:
 ![2b0de04c-01f7-453d-9b43-550acfc98b8f 2](https://user-images.githubusercontent.com/84997943/226894421-4a36c11d-dbe6-4bec-b8e6-7b820e420f98.JPG)
   
 
- Final database:
+## Shortcut table :
   ![8216923e-78ea-43f7-b478-278e7b6a3618 2](https://user-images.githubusercontent.com/84997943/226894550-d5304b53-72ce-4b88-b03c-92db7ea2bdfd.JPG)
 
   
-  
+  Developers:
+    
